@@ -47,7 +47,7 @@ This function returns true if the table is empty, false otherwise
 
 Aside from the above functions, all tables have proper destructors, copy constructors/assignment operators, move constructor/operator that allow for resources to be properly managed.
 
-## Algorithms Analysis
+## Algorithms Analysis (Wiki Page)
 
 Study the implementation of the SimpleTable class without making any modifications. A SimpleTable, uses a sorted array as its underlying data structure. Thus, all key/value pairs are stored in sorted order (according to their key). Using this implementation, determine the run time of the following functions/situation as they are currently implemented, where n is the amount of data (number of key/value pairs) currently in the table.:
 
@@ -68,7 +68,7 @@ Study the implementation of the SimpleTable class without making any modificatio
 
 NOTE: do not assume any of the functions are written well. They work in the sense that the table meets specs. They are not necessarily efficient.
 
-## Code Efficiency Improvements
+## Code Efficiency Improvements (Wiki Page)
 
 3 improvements to the code that will improve its efficiency.
 
